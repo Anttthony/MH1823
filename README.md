@@ -19,7 +19,7 @@ NOTE: The software has had many updates to improve functionality or to keep it c
 
  
 
-The mh1823POD software uses R, of course, and it also uses several R packages, most of which come with the basic R installation.  You will need to install several required ancillary R packages.  This is easy – within the R console, enter this command: install.packages(c("tcltk2", "survival", "xlsx", "numDeriv
+The mh1823POD software uses R, of course, and it also uses several R packages, most of which come with the basic R installation.  You will need to install several required ancillary R packages.  This is easy – within the R console, enter this command: install.packages(c("tcltk2", "survival", "xlsx", "numDeriv"))
 
  
 
